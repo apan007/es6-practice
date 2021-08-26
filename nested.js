@@ -3,7 +3,7 @@
 const Dcompany = {
     name: 'Apan',
     id: 344,
-    address: '25 north dhaka',
+    address: '25 north ctg',
     ceo: {
         name: 'Anan',
         age: 32,
@@ -11,10 +11,10 @@ const Dcompany = {
     },
     team: {
         webDeveloper: {
-            headOfDepertment: {
+            hoD: {
                 name: 'Jhankar Mahbub',
                 age: 24,
-                address: 'out of dhaka'
+                address: 'out of ctg'
             },
             stuff: ['milon', 'asik', 'bikas', 'john', 'nur ahmed']
         },
@@ -25,5 +25,5 @@ const Dcompany = {
     }
 }
 
-const {name} = Dcompany?.team?.webDeveloper?.headOfDepertment;
+const {name} = Dcompany?.team?.webDeveloper?.hoD;
 console.log(name);

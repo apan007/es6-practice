@@ -1,11 +1,11 @@
 // arrow function 
 
-// 3.1 chacklisth
+// 3.1 checklist
 const devider = num => num/5;
 
 console.log(devider(182));
 
-// 3.2 chacklist
+// 3.2 checklist
 
 const multySum = (n1,n2) => (n1+2) * (n2+2);
 

@@ -1,4 +1,4 @@
-// distructuring use on object
+// destructuring use on object
 
 const phone = {name: 'walton', price: 21000, color: 'blue'};
 
@@ -8,7 +8,7 @@ console.log(price + color);
 
 
 
-// distructuring use on array 
+// destructuring use on array 
 
 const numbers = [34,2,45,12,67,23,4,7,9,11,39];
 
