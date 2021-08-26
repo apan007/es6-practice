@@ -1,7 +1,7 @@
 // template string 
 
-const fName = 'Roman';
-const lName = 'Sheikh';
+const fName = 'SM';
+const lName = 'Apan';
 
 const Phone = {name: 'w8 2021', ram: '6gb', price: 12000, color: 'black'}
 

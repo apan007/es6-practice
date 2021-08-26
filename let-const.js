@@ -3,6 +3,6 @@ const dics = 'const variable never redeclared';
 console.log(dics);
 
 // let variable
-let myName = 'Roman';
+let myName = 'Apan';
 myName = 'let variable can redeclare';
 console.log(myName)
